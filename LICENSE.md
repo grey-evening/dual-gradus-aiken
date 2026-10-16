@@ -10,7 +10,7 @@ You are granted a worldwide, royalty-free, non-exclusive license to copy, distri
 2. Restrictions
 
 • No Commercial Use: You may not use this work, its parts, or any derivatives for monetary gain, commercial compensation, or profit.
-• Attribution: You must credit the original project when distributing or modifying this work.
+• Attribution: You must credit the original project when distributing or modifying this work. Credit consists of the full URL path to the pdf file: https://github.com/grey-evening/dual-gradus-aiken/blob/main/Demo-1016.pdf
 
 3. Revocability & Future Editions
 
